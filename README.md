@@ -36,6 +36,7 @@ Latest Audit and Previous Audit for all pages.
 - Power BI
 - DAX (for dynamic metrics & RAG logic)
 - Data modeling & governance scoring framework
+- Zoomcharts Drilldown Visuals
 
 ## Methodology: Data Trust Index Framework
 The Data Trust Index (DTI) is a composite governance score designed to provide a single, normalized view of enterprise data reliability.
@@ -44,8 +45,33 @@ Rather than relying on one metric, the index combines quality performance, compl
 ### Conceptual Formula
 The index is calculated using a weighted model:
 
-``` Data Trust Index =
+```text
+ Data Trust Index =
 (Data Quality Score × W₁)
 + (Compliance Score × W₂)
 − (Risk Exposure Score × W₃)
+```
 
+### Weighting Logic
+Weights (W₁, W₂, W₃) are assigned based on governance impact:
+- Data Quality = Operational reliability
+- Compliance = Regulatory alignment
+- Risk Exposure = Financial & control risk
+
+The weighting structure ensures the index reflects both data health and governance maturity, rather than just technical quality.
+
+### Interpretation Guide
+| Score Range	| Interpretation |
+|-------------|----------------|
+| 80 - 100	  | High Data Trust |
+| 60 - 79	    | Moderate Trust - Improvement Needed |
+| Below 60	  | Elevated Governance Risk |
+
+### Why This Approach?
+This framework ensures:
+1. Executive friendly simplicity
+2. Analytical rigor behind the scenes
+3. Balanced scoring across quality, compliance, and risk
+4. Clear alignment with governance objectives
+
+The goal of the Data Trust Index is not just measurement — but decision enablement.
