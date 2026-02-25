@@ -73,7 +73,7 @@ This framework ensures:
 3. Balanced scoring across quality, compliance, and risk
 4. Clear alignment with governance objectives
 
-The goal of the Data Trust Index is not just measurement — but decision enablement.
+The goal of the Data Trust Index is not just measurement, but decision enablement.
 
 ## Dashboard Screenshots
 
