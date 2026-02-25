@@ -12,7 +12,7 @@ This page answers the question: Where do we stand today?
 A deeper dive into field-level quality metrics including accuracy, completeness, ownership distribution, and stewardship workload.
 This page answers the question: Why does risk exist?
 
-### 3. Risk, Audit & Remediation
+### 3. Audit Findings & Remediation
 An operational view of audit recency, open issues, remediation cost, and regulatory exposure.
 This page answers the question: Are we fixing issues effectively?
 
