@@ -1,5 +1,5 @@
 # Data Governance Risk Analysis (Power BI)
-This project presents an end-to-end Data Governance Analysis designed to evaluate enterprise data trust, compliance exposure, and remediation effectiveness through an executive-focused Power BI dashboard.
+This project presents an end to end Data Governance Analysis designed to evaluate enterprise data trust, compliance exposure, and remediation effectiveness through an executive-focused Power BI dashboard.
 The goal was simple:
 Turn complex governance metrics into clear, decision ready insights.
 
