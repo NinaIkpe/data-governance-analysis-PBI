@@ -78,10 +78,10 @@ The goal of the Data Trust Index is not just measurement, but decision enablemen
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/executive-overview)
+![Executive Overview](screenshots/executive-overview.png)
 
 ### Data Quality & Stewardship
-![Data Quality & Stewardship](screenshots/data-quality-and-stewardship)
+![Data Quality & Stewardship](screenshots/data-quality-and-stewardship.png)
 
 ### Audit Findings & Remediation
-![Audit Findings & Remediation](screenshots/audit-findings-and-remediation)
+![Audit Findings & Remediation](screenshots/audit-findings-and-remediation.png)
