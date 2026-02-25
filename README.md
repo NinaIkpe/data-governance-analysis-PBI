@@ -51,7 +51,6 @@ The index is calculated using a weighted model:
 + (Compliance Score × W₂)
 − (Risk Exposure Score × W₃)
 ```
-
 ### Weighting Logic
 Weights (W₁, W₂, W₃) are assigned based on governance impact:
 - Data Quality = Operational reliability
@@ -75,3 +74,14 @@ This framework ensures:
 4. Clear alignment with governance objectives
 
 The goal of the Data Trust Index is not just measurement — but decision enablement.
+
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/executive-overview)
+
+### Data Quality & Stewardship
+![Data Quality & Stewardship](screenshots/data-quality-and-stewardship)
+
+### Audit Findings & Remediation
+![Audit Findings & Remediation](screenshots/audit-findings-and-remediation)
